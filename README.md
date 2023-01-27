@@ -21,11 +21,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - API (endpoint do GitHub)
 - Classes
 - Async
+- LocalStorage
 - Git e Github
 
 ## 💻 Projeto
 
-O Github-Favorites é um aplicação com finalidade de treinar o conceito de API(endpoint) e  Async/await.
+O Github-Favorites é um aplicação com finalidade de treinar o conceito de API(endpoint), Async/await e LocalStorage.
 
 - [Visite o projeto online](https://jjfaleiro.github.io/Universe-SPA/)
 
