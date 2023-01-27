@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Github-Favorites é um aplicação com finalidade de treinar o conceito de API(endpoint), Async/await e LocalStorage.
 
-- [Visite o projeto online](https://jjfaleiro.github.io/Universe-SPA/)
+- [Visite o projeto online](https://jjfaleiro.github.io/Github-Favorites/)
 
 ## :memo: Licença
 
